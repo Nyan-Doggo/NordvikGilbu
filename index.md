@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# NordvikGilbu.no
+Denne nettsiden er driftet av Simon Nordvik Gilbu, og fungerer som en "oppslags-tavle" for informasjon knyttet til Marit og Simon Nordvik Gilbu
 
-You can use the [editor on GitHub](https://github.com/Nyan-Doggo/NordvikGilbu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Julegave-ønsker for jula 2020
+Julen er her, og det er alltid noen som lurer på hva man ønsker seg, her har vi laget hver vår liste på julegaver vi ønsker oss,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Marit sine ønsker:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nyan-Doggo/NordvikGilbu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Simon sine ønsker:
+<dl>
+  <dt>Hettegensere og jeans</dt>
+  <dd>eller kanskje et gavekort på "Jack and Jones" eller "Dressman"?</dd>
+  
+  <dt>Dyne og pute</dt>
+  <dd>eller kanskje et gavekort på "IKEA" eller "Jysk"?</dd>
+  
+  <dt>Whiskey</dt>
+  <dd>har de gavekort på polet?</dd>
+</dl>
