@@ -5,6 +5,16 @@ Denne nettsiden er driftet av Simon Nordvik Gilbu, og fungerer som en "oppslags-
 Julen er her, og det er alltid noen som lurer på hva man ønsker seg, her har vi laget hver vår liste på julegaver vi ønsker oss,
 
 ### Marit sine ønsker:
+<dl>
+  <dt>Middagsfat og skåler fra IKEA (Upplaga)</dt>
+  <dd>eller kanskje et gavekort fra IKEA</dd>
+  
+  <dt>Duftlys</dt>
+  <dd>eller kanskje et gavekort fra f.eks. Kremmerhuset</dd>
+  
+  <dt>Bøker</dt>
+  <dd>eller kanskje et gavekort fra f.eks. Ark bokhandel</dd>
+</dl>
 
 ### Simon sine ønsker:
 <dl>
