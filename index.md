@@ -2,6 +2,8 @@
 Denne nettsiden er driftet av Simon Nordvik Gilbu, og fungerer som en "oppslags-tavle" for informasjon knyttet til Marit og Simon Nordvik Gilbu
 
 ## Julegave-ønsker for jula 2020
+(28. nov 2020)
+
 Julen er her, og det er alltid noen som lurer på hva man ønsker seg, her har vi laget hver vår liste på julegaver vi ønsker oss,
 
 ### Marit sine ønsker:
