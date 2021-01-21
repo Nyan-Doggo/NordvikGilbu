@@ -52,7 +52,7 @@ section {
 
 .custom-nav{
     margin-left: auto;
-    text-align: right;
+    text-align: left;
 }
 
 .custom-navbar-item{
@@ -73,11 +73,6 @@ section {
 
 
 /**** Carousel mummikopper ****/
-.mummikopp-paragraph{
-    margin: auto;
-    vertical-align: bottom;
-}
-
 .carousel-arrow{
     font-size: 3rem;
     color: #888;
