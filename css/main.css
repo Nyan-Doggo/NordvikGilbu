@@ -1,0 +1,79 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #dddddd;
+    color: #222831;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Noto Serif SC', serif;
+    padding-bottom: 1%;
+}
+
+section {
+    padding: 3% 10%;
+}
+
+
+/**** Generic Classes ****/
+.colored-section{
+    background-color: #f05454;
+}
+
+.higlighted-heading{
+    color: black;
+}
+
+.colored-section .higlighted-heading{
+    color: white;
+}
+
+
+/**** NAVBAR ****/
+.custom-navbar{
+    padding: 0;
+}
+
+.custom-navbar-title{
+    font-size: 3.5rem;
+}
+
+.custom-nav{
+    margin-left: auto;
+    text-align: right;
+}
+
+.custom-navbar-item{
+    font-size: 2rem;
+    color: #dddddd;
+}
+
+.custom-navbar-item:hover{
+    font-size: 2rem;
+    color: white;
+    text-decoration: underline;
+}
+
+.custom-navbar-toggler-icon{
+    color: #dddddd;
+    font-size: 2rem;
+}
+
+
+/**** Carousel mummikopper ****/
+.mummikopp-paragraph{
+    margin: auto;
+    vertical-align: bottom;
+}
+
+.carousel-arrow{
+    font-size: 3rem;
+    color: #888;
+}
+
+.carousel-arrow:hover{
+    color: #333;
+}
+
+.custom-mummi-carousel-inner{
+    height: 15rem;
+}
