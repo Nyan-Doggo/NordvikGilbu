@@ -15,6 +15,19 @@ section {
 
 
 /**** Generic Classes ****/
+.custom-anchor{
+    font-weight: bold;
+    color: #222831;
+    text-decoration: underline;
+}
+
+.custom-anchor:hover{
+    font-weight: bold;
+    color: #dddddd;
+    background-color: #222831;
+    text-decoration: underline;
+}
+
 .colored-section{
     background-color: #f05454;
 }
