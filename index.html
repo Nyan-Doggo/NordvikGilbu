@@ -26,7 +26,7 @@
     />
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/main.css" />
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="favicon.ico" />
     <title>Nordvik Gilbu</title>
   </head>
   <body>
@@ -64,8 +64,27 @@
       </nav>
     </section>
 
+    <!-- Svar På bryllup -->
+    <section>
+      <h1>Har du blitt invitert i bryllup?</h1>
+      <p>Da kan du svare her på om du har mulgihet til å komme!</p>
+
+      <div>
+        <form class="row wedding-form">
+          <label class="col-lg-3 col-md-4">Navn på gjest(er)</label>
+          <input class="col-lg-9 col-md-8 guestName" type="text" />
+          <button class="btn col-5 can-come-btn" onclick="test()">
+            Vi <strong><em>kan</em></strong> komme!
+          </button>
+          <button class="btn col-5 can-not-come-btn" onclick="test()">
+            Vi kan <strong>ikke</strong> komme!
+          </button>
+        </form>
+      </div>
+    </section>
+
     <!-- MUMMIKOPPER -->
-    <section id="mummikopper">
+    <section id="mummikopper" class="colored-section">
       <div class="row">
         <div class="col-lg-4 col-md-5 py-3">
           <h1 class="higlighted-heading">Mummikopper</h1>
@@ -157,6 +176,8 @@
       </div>
     </section>
 
+    <!-- Jquerry 3.5.1 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Bootstrap 4 JS -->
     <script
       src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
@@ -173,5 +194,7 @@
       integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
       crossorigin="anonymous"
     ></script>
+    <!-- Custom JS -->
+    <script src="index.js"></script>
   </body>
 </html>

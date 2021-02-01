@@ -30,6 +30,7 @@ section {
 
 .colored-section{
     background-color: #f05454;
+    color: white;
 }
 
 .higlighted-heading{
@@ -71,7 +72,22 @@ section {
     font-size: 2rem;
 }
 
+/**** wedding ****/
+.wedding-form{
+    background-color: #eee ;
+    padding: 1rem;
+}
 
+.can-come-btn{
+    background-color: #10DE62;
+    margin: 1%;
+}
+
+.can-not-come-btn{
+    background-color: #F05A54;
+    margin: 1%;
+    margin-left: auto;
+}
 /**** Carousel mummikopper ****/
 .carousel-arrow{
     font-size: 3rem;
@@ -80,6 +96,15 @@ section {
 
 .carousel-arrow:hover{
     color: #333;
+}
+
+.colored-section .carousel-arrow {
+    font-size: 3rem;
+    color: #bbb;
+}
+
+.colored-section .carousel-arrow:hover{
+    color: #fff;
 }
 
 .custom-mummi-carousel-inner{
