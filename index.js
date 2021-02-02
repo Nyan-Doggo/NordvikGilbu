@@ -6,7 +6,6 @@ document.onload = loadFunctions();
 
 async function loadFunctions() {
   allValidCodes = await getTableAsArray("AccessCodes");
-  console.log(allValidCodes);
 }
 
 function registerGuests() {
