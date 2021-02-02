@@ -88,6 +88,21 @@ section {
     margin: 1%;
     margin-left: auto;
 }
+
+.guestCode{
+    margin: 0.1% 0%;
+}
+
+.acces-code{
+    margin-left: auto;
+    margin-top: 1%;
+}
+
+.acces-code-text{
+    margin-top: 1%;
+}
+
+
 /**** Carousel mummikopper ****/
 .carousel-arrow{
     font-size: 3rem;

@@ -56,6 +56,9 @@
               href="#header"
               >Hjem <span class="sr-only">(current)</span></a
             >
+            <a class="nav-item nav-link custom-navbar-item" href="#wedding"
+              >Bryllup</a
+            >
             <a class="nav-item nav-link custom-navbar-item" href="#mummikopper"
               >Mummikopper</a
             >
@@ -65,18 +68,38 @@
     </section>
 
     <!-- Svar På bryllup -->
-    <section>
+    <section id="wedding">
       <h1>Har du blitt invitert i bryllup?</h1>
-      <p>Da kan du svare her på om du har mulgihet til å komme!</p>
+      <p>
+        Da kan du svare her på om du har mulgihet til å komme! fyll inn
+        svarkoden for en eller flere gjester og velg om dere kan eller ikke kan
+        komme. du kan endre svaret ditt frem til fristen som står skrevet i
+        invitasjonen 😃
+      </p>
 
       <div>
         <form class="row wedding-form">
-          <label class="col-lg-3 col-md-4">Navn på gjest(er)</label>
-          <input class="col-lg-9 col-md-8 guestName" type="text" />
-          <button class="btn col-5 can-come-btn" onclick="test()">
+          <label class="col-lg-3 col-md-4">Svarkode for gjest 1:</label>
+          <input class="col-lg-9 col-md-8 guestCode guestCode1" type="text" />
+          <label class="col-lg-3 col-md-4">Svarkode for gjest 2:</label>
+          <input class="col-lg-9 col-md-8 guestCode guestCode2" type="text" />
+          <label class="col-lg-3 col-md-4">Svarkode for gjest 3:</label>
+          <input class="col-lg-9 col-md-8 guestCode guestCode3" type="text" />
+          <label class="col-lg-3 col-md-4">Svarkode for gjest 4:</label>
+          <input class="col-lg-9 col-md-8 guestCode guestCode4" type="text" />
+          <hr class="col-11" color="black" />
+          <button
+            type="button"
+            class="btn col-lg-5 col-md-5 can-come-btn"
+            onclick="canComeClicked()"
+          >
             Vi <strong><em>kan</em></strong> komme!
           </button>
-          <button class="btn col-5 can-not-come-btn" onclick="test()">
+          <button
+            class="btn col-lg-5 col-md-5 can-not-come-btn"
+            onclick="canNotComeClicked()"
+            type="button"
+          >
             Vi kan <strong>ikke</strong> komme!
           </button>
         </form>
